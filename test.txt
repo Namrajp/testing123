@@ -1,2 +1,7 @@
 test
-Some local update of file on my pc.
+Some local update of file on my pc.a
+
+
+Some remote update with one new line from github repo testing123 on file test.txt
+Another line from remote.Thats it.
+
